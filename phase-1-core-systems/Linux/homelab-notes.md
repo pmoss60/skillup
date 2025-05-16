@@ -1,0 +1,2 @@
+-Debian 12 running on proxmox
+-docker container running plex / dashboard / portainer
