@@ -12,7 +12,7 @@ Transition into a Systems Engineer role focusing on Windows/Linux administration
 
 ---
 
-##  Core Systems (0–2 Months)
+##  Core Systems 
 
 ### 🪟 Windows Server
 - [ ] Set up a Windows Server VM in Proxmox
@@ -37,7 +37,7 @@ Transition into a Systems Engineer role focusing on Windows/Linux administration
 
 ---
 
-## Phase 2: Virtualization, Networking & Security (2–4 Months)
+## Phase 2: Virtualization, Networking & Security 
 
 ### Proxmox & Virtualization
 - [ ] Master Proxmox:
@@ -60,7 +60,7 @@ Transition into a Systems Engineer role focusing on Windows/Linux administration
 
 ---
 
-## Phase 3: Automation & Scripting (4–6 Months)
+## Phase 3: Automation & Scripting
 
 ###  PowerShell
 - [ ] Automate:
@@ -80,7 +80,7 @@ Transition into a Systems Engineer role focusing on Windows/Linux administration
 
 ---
 
-## Phase 4: Cloud & Infrastructure-as-Code (6–8 Months)
+## Phase 4: Cloud & Infrastructure-as-Code 
 
 ### ☁️ Cloud Platforms
 - [ ] Azure:
@@ -119,12 +119,4 @@ Transition into a Systems Engineer role focusing on Windows/Linux administration
 - Systems Support Specialist
 - Cloud or Platform Support Engineer
 
----
 
-##  Sample Resume Line
-
-> Built and maintained an enterprise-style homelab using Proxmox, pfSense, Windows Server, and Linux. Automated user provisioning with PowerShell and deployed infrastructure to Azure using Terraform.
-
----
-
-##  Repository Structure (Planned)
